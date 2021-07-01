@@ -2,7 +2,7 @@
 
 This Create React App template comes with [TailwindCSS](https://tailwindcss.com), [HeroIcons](https://heroicons.dev) and [HeadlessUI](https://headlessui.dev).
 
-## Get Stated
+## Get Started
 
 Clone this repository, open terminal inside the root directory and run `npm install` to install all the needed packages
 
