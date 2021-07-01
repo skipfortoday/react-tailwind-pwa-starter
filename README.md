@@ -10,4 +10,4 @@ Clone this repository, open terminal inside the root directory and run `npm inst
 
 To learn more about TailwindCSS. \Checkout the official documentation [TailwindCSS Documentation](https://tailwindcss.com/docs).
 
-Also, [HeadlessUI](https://headlessui.dev). Go checkout [HeadlessUI](https://headlessui.dev).
+Also, [HeadlessUI](https://headlessui.dev) you can checkout [Documentations](https://headlessui.dev).
