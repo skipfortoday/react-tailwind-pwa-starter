@@ -31,7 +31,9 @@ const App = () => {
     }
   };
   const handleClick = () => {
-    if (val !== "") {
+    if (data.find((element) => element === val)) {
+      openModal();
+    } else if (val !== "") {
       setData((prevArray) => [...prevArray, val]);
       setVal("");
     }
